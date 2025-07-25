@@ -1,0 +1,119 @@
+[
+  {
+    "uid": "8Eq4WuDZyWgY9cvvFOUYX2UwfOI3",
+    "name": "Row Machine",
+    "exerciseID":"Cardio5",
+       "equipment": "Machine",
+    "muscleGroup": "Total Body",
+    "mechanics": "Compound"
+  },
+  {
+    "uid": "8Eq4WuDZyWgY9cvvFOUYX2UwfOI3",
+    "name": "Bike",
+    "exerciseID":"Cardio4",
+       "equipment": "Machine",
+    "muscleGroup": "Total Body",
+    "mechanics": "Compound"
+  },
+    {
+    "uid": "8Eq4WuDZyWgY9cvvFOUYX2UwfOI3",
+    "name": "Elliptica",
+    "exerciseID":"Cardio3",
+       "equipment": "Machine",
+    "muscleGroup": "Total Body",
+    "mechanics": "Compound"
+  },
+
+    {
+    "uid": "8Eq4WuDZyWgY9cvvFOUYX2UwfOI3",
+    "name": "Jump Rope",
+    "exerciseID":"Cardio2",
+       "equipment": "Machine",
+    "muscleGroup": "Total Body",
+    "mechanics": "Compound"
+  },
+
+    {
+    "uid": "8Eq4WuDZyWgY9cvvFOUYX2UwfOI3",
+    "name": "Running",
+    "exerciseID":"Cardio1",
+       "equipment": "Machine",
+    "muscleGroup": "Total Body",
+    "mechanics": "Compound"
+  },
+      {
+    "uid": "8Eq4WuDZyWgY9cvvFOUYX2UwfOI3",
+    "name": "Burpee",
+    "exerciseID":"ALT1",
+       "equipment": "Bodyweight",
+    "muscleGroup": "Total Body",
+    "mechanics": "Compound"
+  },
+      {
+    "uid": "8Eq4WuDZyWgY9cvvFOUYX2UwfOI3",
+    "name": "Standing Military Press",
+    "exerciseID":"SH7",
+       "equipment": "Barbell",
+    "muscleGroup": "Shoulders",
+    "mechanics": "Compound"
+  },{
+    "uid": "8Eq4WuDZyWgY9cvvFOUYX2UwfOI3",
+    "name": "Row Machine",
+    "exerciseID":"Cardio5",
+       "equipment": "Machine",
+    "muscleGroup": "Total Body",
+    "mechanics": "Compound"
+  },
+  {
+    "uid": "8Eq4WuDZyWgY9cvvFOUYX2UwfOI3",
+    "name": "Bike",
+    "exerciseID":"Cardio4",
+       "equipment": "Machine",
+    "muscleGroup": "Total Body",
+    "mechanics": "Compound"
+  },
+    {
+    "uid": "8Eq4WuDZyWgY9cvvFOUYX2UwfOI3",
+    "name": "Elliptica",
+    "exerciseID":"Cardio3",
+       "equipment": "Machine",
+    "muscleGroup": "Total Body",
+    "mechanics": "Compound"
+  },
+
+    {
+    "uid": "8Eq4WuDZyWgY9cvvFOUYX2UwfOI3",
+    "name": "Jump Rope",
+    "exerciseID":"Cardio2",
+       "equipment": "Machine",
+    "muscleGroup": "Total Body",
+    "mechanics": "Compound"
+  },
+
+    {
+    "uid": "8Eq4WuDZyWgY9cvvFOUYX2UwfOI3",
+    "name": "Running",
+    "exerciseID":"Cardio1",
+       "equipment": "Machine",
+    "muscleGroup": "Total Body",
+    "mechanics": "Compound"
+  },
+      {
+    "uid": "8Eq4WuDZyWgY9cvvFOUYX2UwfOI3",
+    "name": "Burpee",
+    "exerciseID":"ALT1",
+       "equipment": "Bodyweight",
+    "muscleGroup": "Total Body",
+    "mechanics": "Compound"
+  },
+      {
+    "uid": "8Eq4WuDZyWgY9cvvFOUYX2UwfOI3",
+    "name": "Standing Military Press",
+    "exerciseID":"SH7",
+       "equipment": "Barbell",
+    "muscleGroup": "Shoulders",
+    "mechanics": "Compound"
+  }
+
+
+]

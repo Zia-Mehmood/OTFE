@@ -1,0 +1,334 @@
+[
+   {
+      "portFolioData":[
+         
+      ],
+      "email":"lion@test.com",
+      "isVerified":false,
+      "phone":"11111111111",
+      "role":"user",
+      "isActive":true,
+      "country":"Angola",
+     "file":"https://firebasestorage.googleapis.com/v0/b/edubridge-b1ee1.appspot.com/o/files%2FsRQ4qdsXouOaDC0S7Dl1GQfSMh63?alt=media&token=37d34e06-53a7-4bc9-96ec-fbf606a61d90",
+      "skills":[
+         
+      ],
+      "postalCode":"03456876",
+      "name":"lion ilo",
+      "password":"Admin@123",
+      "uid":"8Eq4WuDZyWgY9cvvFOUYX2UwfOI3",
+      "certifications":[
+         
+      ],
+      "isDeleted":false,
+      "academicRecord":[
+         
+      ]
+   },
+   {
+      "postalCode":"034568",
+      "certifications":[
+         
+      ],
+      "password":"Admin@123",
+      "isDeleted":false,
+      "skills":[
+         
+      ],
+      "academicRecord":[
+         
+      ],
+      "uid":"Gm6e6oqTdlPGhqfjWqurm6RAscB3",
+      "role":"user",
+      "isVerified":false,
+      "name":"maham",
+      "country":"Afghanistan",
+      "portFolioData":[
+         
+      ],
+      "isActive":true,
+      "email":"test2@gmail.com",
+    "file":"https://firebasestorage.googleapis.com/v0/b/edubridge-b1ee1.appspot.com/o/files%2FsRQ4qdsXouOaDC0S7Dl1GQfSMh63?alt=media&token=37d34e06-53a7-4bc9-96ec-fbf606a61d90",
+      "phone":"11111111111"
+   },
+   {
+      "isVerified":false,
+     "file":"https://firebasestorage.googleapis.com/v0/b/edubridge-b1ee1.appspot.com/o/files%2FsRQ4qdsXouOaDC0S7Dl1GQfSMh63?alt=media&token=37d34e06-53a7-4bc9-96ec-fbf606a61d90",
+      "portFolioData":[
+         {
+            "portfolioName":"wdddsda",
+            "portfolioLink":"asdfsadfsadf"
+         },
+         {
+            "portfolioLink":"sdafsadf",
+            "portfolioName":"dfsdfsadf"
+         }
+      ],
+      "phone":"033114230888",
+      "role":"user",
+      "isActive":true,
+      "skills":[
+         "React Js",
+         "sadfsadfdsfasdf",
+         "nvyjg"
+      ],
+      "academicRecord":[
+         {
+            "percentage":"60%",
+            "passYear":"2024-01-16",
+            "certifications":"",
+            "skills":"",
+            "institution":"asdasdasd",
+            "qualification":"asdasdasd"
+         }
+      ],
+      "postalCode":"03456",
+      "certifications":[
+         "Micertifications",
+         "abl",
+         "hel"
+      ],
+      "country":"Poland",
+      "password":"Admin@123",
+      "isDeleted":false,
+      "name":"Maham Zia",
+      "email":"maham_mehmood@outlook.com",
+      "uid":"HTdMbHTkTqY6bBYNPeF5PHzjwpf1"
+   },
+   {
+      "uid":"Jq1puAVLxpZMppnaSba0i8Bdqjo2",
+      "postalCode":"Aut do velit omnis ",
+      "skills":[
+         
+      ],
+      "certifications":[
+         
+      ],
+      "file":"https://firebasestorage.googleapis.com/v0/b/edubridge-b1ee1.appspot.com/o/files%2FsRQ4qdsXouOaDC0S7Dl1GQfSMh63?alt=media&token=37d34e06-53a7-4bc9-96ec-fbf606a61d90",
+      "password":"Admin@123",
+      "role":"user",
+      "phone":"+1 (389) 835-7321",
+      "academicRecord":[
+         
+      ],
+      "isVerified":false,
+      "name":"Zelenia David",
+      "isActive":true,
+      "portFolioData":[
+         
+      ],
+      "country":"Armenia",
+      "email":"testuser2@gmail.com",
+      "isDeleted":false
+   },
+   {
+      "role":"user",
+      "portFolioData":[
+         
+      ],
+      "skills":[
+         
+      ],
+      "uid":"Xk7Yok75lXdp4mC4W19z1xOopgk2",
+      "email":"jondoe@mail.com",
+      "certifications":[
+         
+      ],
+      "postalCode":"11111",
+     "file":"https://firebasestorage.googleapis.com/v0/b/edubridge-b1ee1.appspot.com/o/files%2FsRQ4qdsXouOaDC0S7Dl1GQfSMh63?alt=media&token=37d34e06-53a7-4bc9-96ec-fbf606a61d90",
+      "isActive":true,
+      "isVerified":false,
+      "phone":"Doe New",
+      "country":"United Kingdom",
+      "academicRecord":[
+         
+      ],
+      "name":"Jon New",
+      "password":"password",
+      "isDeleted":false
+   },
+   {
+      "academicRecord":[
+         
+      ],
+      "isActive":true,
+      "isVerified":false,
+      "email":"mussaffah@gmail.com",
+      "country":"Bolivia",
+      "role":"user",
+      "password":"Admin@123",
+      "skills":[
+         
+      ],
+      "isDeleted":false,
+      "uid":"eOszGS75Zfgs2nwLqvuBaQDNmHE2",
+      "portFolioData":[
+         
+      ],
+      "phone":"03311423088",
+      "postalCode":"03456",
+      "certifications":[
+         
+      ],
+      "file":"https://firebasestorage.googleapis.com/v0/b/edubridge-b1ee1.appspot.com/o/files%2FsRQ4qdsXouOaDC0S7Dl1GQfSMh63?alt=media&token=37d34e06-53a7-4bc9-96ec-fbf606a61d90",
+      "name":"maham"
+   },
+   {
+      "skills":[
+         "React Native",
+         "node js",
+         "asp .net",
+         "bibi"
+      ],
+      "country":"Angola",
+      "certifications":[
+         "Microsoft xl",
+         "abl",
+         "hello",
+         "hi",
+         "bye bye"
+      ],
+      "role":"user",
+     "file":"https://firebasestorage.googleapis.com/v0/b/edubridge-b1ee1.appspot.com/o/files%2FsRQ4qdsXouOaDC0S7Dl1GQfSMh63?alt=media&token=37d34e06-53a7-4bc9-96ec-fbf606a61d90",
+      "password":"Admin@123",
+      "name":"mahi",
+      "postalCode":"034568",
+      "portFolioData":[
+         {
+            "portfolioLink":"www.reactnative.com",
+            "portfolioName":"React Native"
+         },
+         {
+            "portfolioName":"react js",
+            "portfolioLink":"www.reactjs.com"
+         }
+      ],
+      "isVerified":false,
+      "isActive":true,
+      "academicRecord":[
+         {
+            "percentage":"75%",
+            "institution":"Punjab college",
+            "certifications":"",
+            "qualification":"matric",
+            "passYear":"2024-01-03",
+            "skills":""
+         }
+      ],
+      "uid":"gxOS1UDfzSawNTNj7ouUoTGe2m32",
+      "email":"maham.iqbal@crowdbotics.com",
+      "phone":"03311423088",
+      "isDeleted":false
+   },
+   {
+      "certifications":[
+         "MCSE"
+      ],
+      "isDeleted":false,
+      "skills":[
+         "React",
+         "JS"
+      ],
+      "isActive":true,
+      "academicRecord":[
+         
+      ],
+      "password":"password",
+      "phone":"1111111111",
+      "country":"United States",
+      "email":"johnblithe@yahoo.com",
+      "name":"Student New",
+      "role":"user",
+      "uid":"rROigNUDkdWvrnArp9C24hbHOUB2",
+      "file":"https://firebasestorage.googleapis.com/v0/b/edubridge-b1ee1.appspot.com/o/files%2FsRQ4qdsXouOaDC0S7Dl1GQfSMh63?alt=media&token=37d34e06-53a7-4bc9-96ec-fbf606a61d90",
+      "postalCode":"55555",
+      "portFolioData":[
+         {
+            "portfolioLink":"www.portfolio1.com",
+            "portfolioName":"Portfolio 1"
+         }
+      ],
+      "isVerified":false
+   },
+   {
+      "academicRecord":[
+         
+      ],
+      "isVerified":false,
+      "certifications":[
+         
+      ],
+      "portFolioData":[
+         
+      ],
+      "postalCode":"03456",
+      "isActive":true,
+      "country":"Aruba",
+      "name":"maham",
+      "password":"Admin@123",
+      "skills":[
+         "react js"
+      ],
+      "file":"https://firebasestorage.googleapis.com/v0/b/edubridge-b1ee1.appspot.com/o/files%2FsRQ4qdsXouOaDC0S7Dl1GQfSMh63?alt=media&token=37d34e06-53a7-4bc9-96ec-fbf606a61d90",
+      "phone":"03311423088",
+      "isDeleted":false,
+      "uid":"sJgFsARhXeO4YuN81AEonAhSOzP2",
+      "email":"breeder@gmail.com",
+      "role":"user"
+   },
+   {
+      "isActive":true,
+      "certifications":[
+         "microsoft XL"
+      ],
+      "country":"Jamaica",
+      "file":"https://firebasestorage.googleapis.com/v0/b/edubridge-b1ee1.appspot.com/o/files%2FsRQ4qdsXouOaDC0S7Dl1GQfSMh63?alt=media&token=37d34e06-53a7-4bc9-96ec-fbf606a61d90",
+      "skills":[
+         "react js"
+      ],
+      "isVerified":false,
+      "academicRecord":[
+         
+      ],
+      "portFolioData":[
+         {
+            "portfolioName":"react js",
+            "portfolioLink":"www.reactjs.com"
+         }
+      ],
+      "email":"testStudent@test.com",
+      "phone":"11111111111",
+      "name":"Maham",
+      "isDeleted":false,
+      "role":"user",
+      "uid":"sRQ4qdsXouOaDC0S7Dl1GQfSMh63",
+      "password":"Admin@123",
+      "postalCode":"034568"
+   },
+   {
+      "isVerified":false,
+      "country":"Belize",
+      "role":"user",
+      "isActive":true,
+      "email":"test3@gmail.com",
+      "name":"maham ",
+      "academicRecord":[
+         
+      ],
+     "file":"https://firebasestorage.googleapis.com/v0/b/edubridge-b1ee1.appspot.com/o/files%2FsRQ4qdsXouOaDC0S7Dl1GQfSMh63?alt=media&token=37d34e06-53a7-4bc9-96ec-fbf606a61d90",
+      "skills":[
+         
+      ],
+      "phone":"111111111112",
+      "certifications":[
+         
+      ],
+      "isDeleted":false,
+      "uid":"uHYZNQ7isKYx3EmBryMU0xPgUn52",
+      "password":"Admin@123",
+      "postalCode":"034568",
+      "portFolioData":[
+         
+      ]
+   }
+]

@@ -1,0 +1,9 @@
+[
+    {"Label":"M","inZone":0,"under":0,"over":7225,"calsBurned":7615,"line":4615},
+    {"Label":"Tu","inZone":4615,"under":0,"over":0,"calsBurned":4615,"line":4615},
+    {"Label":"W","inZone":0,"under":3615,"over":0,"calsBurned":8615,"line":4615},
+    {"Label":"Th","inZone":4615,"under":0,"over":0,"calsBurned":7015,"line":4615},
+     {"Label":"F","inZone":3615,"under":0,"over":0,"calsBurned":5615,"line":4615},
+    {"Label":"S","inZone":0,"under":0,"over":0,"calsBurned":7015,"line":4615},
+     {"Label":"Su","inZone":4615,"under":0,"over":0,"calsBurned":3915,"line":4615}
+]

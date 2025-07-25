@@ -1,0 +1,10 @@
+[
+    {"Label":"week 1","revenue":7225,"cost":4615},
+    {"Label":"week 2","revenue":6320,"cost":5118},
+    {"Label":"week 3","revenue":2221,"cost":2010},
+    {"Label":"week 4","revenue":6628,"cost":5330},
+     {"Label":"week 5","revenue":6320,"cost":5118},
+    {"Label":"week 6","revenue":2221,"cost":2010},
+     {"Label":"week 7","revenue":6320,"cost":5118},
+    {"Label":"week 8","revenue":2221,"cost":2010}
+]

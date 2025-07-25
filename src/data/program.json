@@ -1,0 +1,812 @@
+
+    {
+        "id":1,
+        "name":"Intermediate Hypertrophy Trainer",
+        "description":"This 12 week workout program is for people who have a History of consistent exercise, and want to build muscle mass and strength",
+        "weeks":[{
+            "name":"Week 1",
+            "days":[{
+                "name":"Day 1",
+                "sequence":1,
+                "workout":{
+                    "title":"Chest and Triceps",
+                    "sessoions":[{
+                        "exercise":[{
+                            "name":"1. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"2. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"3. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        }]
+                    }]
+                }
+            },{
+                "name":"Day 2",
+                "sequence":1,
+                "workout":{
+                    "title":"Chest and Triceps",
+                    "sessoions":[{
+                        "exercise":[{
+                            "name":"1. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"2. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"3. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        }]
+                    }]
+                }
+            },{
+                "name":"Day 3",
+                "sequence":1,
+                "workout":{
+                    "title":"Chest and Triceps",
+                    "sessoions":[{
+                        "exercise":[{
+                            "name":"1. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"2. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"3. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        }]
+                    }]
+                }
+            },{
+                "name":"Day 4",
+                "sequence":1,
+                "workout":{
+                    "title":"Chest and Triceps",
+                    "sessoions":[{
+                        "exercise":[{
+                            "name":"1. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"2. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"3. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        }]
+                    }]
+                }
+            },{
+                "name":"Day 5",
+                "sequence":1,
+                "workout":{
+                    "title":"Chest and Triceps",
+                    "sessoions":[{
+                        "exercise":[{
+                            "name":"1. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"2. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"3. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        }]
+                    }]
+                }
+            },{
+                "name":"Day 6",
+                "sequence":1,
+                "workout":{
+                    "title":"Chest and Triceps",
+                    "sessoions":[{
+                        "exercise":[{
+                            "name":"1. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"2. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"3. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        }]
+                    }]
+                }
+            },{
+                "name":"Day 7",
+                "sequence":1,
+                "workout":{
+                    "title":"Chest and Triceps",
+                    "sessoions":[{
+                        "exercise":[{
+                            "name":"1. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"2. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"3. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        }]
+                    }]
+                }
+            }]
+        },{
+            "name":"Week 2",
+            "days":[{
+                "name":"Day 1",
+                "sequence":1,
+                "workout":{
+                    "title":"Chest and Triceps",
+                    "sessoions":[{
+                        "exercise":[{
+                            "name":"1. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"2. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"3. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        }]
+                    }]
+                }
+            },{
+                "name":"Day 2",
+                "sequence":1,
+                "workout":{
+                    "title":"Chest and Triceps",
+                    "sessoions":[{
+                        "exercise":[{
+                            "name":"1. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"2. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"3. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        }]
+                    }]
+                }
+            },{
+                "name":"Day 3",
+                "sequence":1,
+                "workout":{
+                    "title":"Chest and Triceps",
+                    "sessoions":[{
+                        "exercise":[{
+                            "name":"1. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"2. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"3. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        }]
+                    }]
+                }
+            },{
+                "name":"Day 4",
+                "sequence":1,
+                "workout":{
+                    "title":"Chest and Triceps",
+                    "sessoions":[{
+                        "exercise":[{
+                            "name":"1. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"2. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"3. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        }]
+                    }]
+                }
+            },{
+                "name":"Day 5",
+                "sequence":1,
+                "workout":{
+                    "title":"Chest and Triceps",
+                    "sessoions":[{
+                        "exercise":[{
+                            "name":"1. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"2. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"3. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        }]
+                    }]
+                }
+            },{
+                "name":"Day 6",
+                "sequence":1,
+                "workout":{
+                    "title":"Chest and Triceps",
+                    "sessoions":[{
+                        "exercise":[{
+                            "name":"1. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"2. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"3. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        }]
+                    }]
+                }
+            },{
+                "name":"Day 7",
+                "sequence":1,
+                "workout":{
+                    "title":"Chest and Triceps",
+                    "sessoions":[{
+                        "exercise":[{
+                            "name":"1. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"2. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        },{
+                            "name":"3. Barbel Bench Press",
+                            "note":"Make sure to keep elbows tucked in Touuch the bar to your chest",
+                            "detail":[{
+                                "set":"1",
+                                "reps":"10/10/10",
+                                "rest":"2:00"
+                            },{
+                                "set":"2",
+                                "reps":"10",
+                                "rest":"1:30"
+                            },{
+                                "set":"1",
+                                "reps":"8",
+                                "rest":"2:00"
+                            }]
+                        }]
+                    }]
+                }
+            }]
+        }
+        ]
+    }
